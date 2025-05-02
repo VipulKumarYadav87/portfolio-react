@@ -1,4 +1,4 @@
-import React from 'react'; // farooque
+import React from 'react'; 
 import './About.css';
 import theme_pattern from '../../assets/theme_pattern.svg';
 import profileimg from '../../assets/profileimg.jpeg';
