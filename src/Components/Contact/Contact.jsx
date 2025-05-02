@@ -52,7 +52,7 @@ const Contact = () => {
                         <img src={call_icon} alt="" />  <p>+91-8303531053</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={location_icon} alt="" /> <p>Shivajinagar, Pune 411005</p>
+                        <img src={location_icon} alt="Noimage" /> <p>Shivajinagar, Pune 411005</p>
                     </div>
                 </div>
             </div>
